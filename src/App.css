@@ -4,12 +4,17 @@
 
 a {
   padding: 4px;
-
 }
 
 .about {
   display: inline-block;
   max-width: 45%;
+}
+
+.Projects {
+  display: flex;
+  flex-direction: column;
+  max-width: 40%;
   margin: auto;
 }
 
